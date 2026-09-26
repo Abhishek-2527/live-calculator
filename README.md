@@ -27,7 +27,7 @@ The project was developed to strengthen practical knowledge of **HTML structure,
 
 ---
 
-## ✨ Features
+## ✨ Featuressss
 
 ### 🔢 Basic Calculations
 
